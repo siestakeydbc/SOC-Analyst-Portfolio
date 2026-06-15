@@ -143,7 +143,7 @@ The George Washington University · GPA: 3.9 · Graduated January 2019
 |---|---|---|
 | ISC2 Certified in Cybersecurity (CC) | ISC2 | 2025 |
 | CompTIA Security+ (In Progress) | CompTIA | Expected July 2026 |
-
+| INE Certified Cloud Associate (ICCA) 2025 | INE |
 ---
 
 ## Projects & Portfolio
