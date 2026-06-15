@@ -42,7 +42,7 @@ A collection of real-world SOC workflows, incident response playbooks, detection
 
 ## Certifications & Training
 - CompTIA Security+ July 2026
-- ISC Certified in Cybersecurity 2025
+- ISC22 Certified in Cybersecurity 2025
 - ICCA INE Certified Cloud Security Associate 2025
 - LognPacific Josh Madakor SOC Internship 2025-present 
 - TCM Security Academy 2024-present
