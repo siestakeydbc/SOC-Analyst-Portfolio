@@ -4,10 +4,12 @@
 **Version:** 1.0  
 **MITRE ATT&CK Coverage:** T1566 (Phishing), T1078 (Valid Accounts), T1110 (Brute Force), T1486 (Data Encrypted for Impact)  
 **Severity Trigger:** Medium → Critical (escalates if credentials confirmed compromised)  
-**Author:** David Cox | SOC Analyst  
+**Author:** [David Cox | SOC Analyst
 **Last Updated:** 2025
+## Playbook Flowchart
 
----
+![Phishing IR Flowchart](https://raw.githubusercontent.com/siestakeydbc/SOC-Analyst-Portfolio/main/Incident-Response/phishing-ir-flowchart.png)
+
 
 ## Overview
 
